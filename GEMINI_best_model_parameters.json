@@ -1,0 +1,6 @@
+{
+  "CHUNK_SIZE": 512,
+  "SENTENCE_ALIGNMENT": true,
+  "PROMPT": "You are an AI assistant trained for text classification. Categorize the given text into one of the following categories: Philosophy, Geography, Social Sciences, Politics. Text: \"{chunk}\" Respond only with the category name."
+}
+
